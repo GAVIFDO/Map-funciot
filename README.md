@@ -1,1 +1,1 @@
-# Map-funciot
+# Map-function
